@@ -3,7 +3,7 @@ package br.com.github.ruannarici.model;
 import java.util.Scanner;
 import java.util.Random;
 
-public class LogicPlay {
+public class LogicPlay{
 
 	private int life = 6;
 	private char letter = ' ';

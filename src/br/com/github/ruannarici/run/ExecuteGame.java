@@ -7,7 +7,7 @@ public class ExecuteGame {
 	public static void main(String[] args) {
 		
 		LogicPlay game = new LogicPlay();
-		game.gamePlay();
+		game.gamePlay();;
 	}
 
 }
