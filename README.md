@@ -30,4 +30,4 @@ The objective of the game is to guess the word based on the theme informed by th
 
 
 ## PREVIEW
-![GIF](./assets/img/preview.gif#vitrinedev)
+![Ruan Narici](./assets/img/preview.gif#vitrinedev)
